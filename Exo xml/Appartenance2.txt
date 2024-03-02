@@ -1,0 +1,12 @@
+a. L'élément <mots-clefs> = l'URI "http://www.yahoo.com/".
+
+b. L'élément <recherche>  = l'URI "http://www.google.com/".
+
+c. L'élément <yahoo:mot>  = l'URI "http://www.yahoo.com/".
+
+d. L'élément <nombre>  = l'URI "http://www.yahoo.com/".
+
+e. Il y a deux espaces de noms dans ce document :
+
+1_L'espace de noms par défaut, 
+2_L'espace de noms associé au préfixe yahoo.

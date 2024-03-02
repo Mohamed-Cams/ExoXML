@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<fact:facture xmlns:fact="http://www.domaine.com/facture">
+<fact:facture xmlns:fact2="http://www.domaine.com/facture2">
+<fact2:montant />
+</fact:facture>
+<fact:montant />
+</fact:facture>

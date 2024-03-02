@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:pcv="http://prismstandard.org/namespaces/pcv/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<Description about="http://wanderlust.com/2000/08/Corfu.jpg">
+    <dc:identifier resource="http://wanderlust.com/content/2357845" />
+    <dc:creator>
+        <pcv:Descriptor about="http://wanderlust.com/emp3845">
+            <pcv:label>John Peterson </pcv:label>
+            </pcv:Descriptor>
+        </dc:creator>
+        <dc:coverage>
+            <pcv:Descriptor about="http://prismstandard.org/vocabs/ISO-3166/GR">
+            <pcv:label xml:lang="en">Greece</pcv:label>
+            <pcv:label xml:lang="fr">Grece</pcv:label>
+            </pcv:Descriptor>
+        </dc:coverage>
+</Description>
+</RDF>

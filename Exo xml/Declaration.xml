@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<fact:facture xmlns:fact="facture">
+<fact:montant>10$</fact:montant>
+<fact:nom>Jean</fact:nom>
+</fact:facture>

@@ -1,0 +1,12 @@
+<!DOCTYPE bibliothèque [
+<!ELEMENT bibliothèque (livre*, utilisateur*)>
+<!ELEMENT livre (titre, éditeur, emplacement)>
+<!ATTLIST livre id ID #REQUIRED lang (fr | en | de) "fr">
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT éditeur (#PCDATA)>
+<!ELEMENT emplacement (#PCDATA)>
+<!ELEMENT utilisateur (nom, prénom?, adresse?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prénom (#PCDATA)>
+<!ELEMENT adresse (#PCDATA)>
+]>

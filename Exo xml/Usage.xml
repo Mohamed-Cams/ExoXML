@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<expedition xmlns:fact="http://www.domaine.com/facture">
+    <fact:facture>
+    </fact:facture>
+    <fact:nom></fact:nom>
+</expedition>
